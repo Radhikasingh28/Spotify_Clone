@@ -30,11 +30,11 @@ Instead of hardcoding albums and songs, the application automatically reads albu
 
 ## 🛠 Tech Stack
 
-| Technology       | Purpose                     |
-| ---------------- | --------------------------- |
-| HTML5            | Structure                   |
-| CSS3             | Styling & Responsive Design |
-| JavaScript (ES6) | Dynamic Functionality       |
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling & Responsive Design |
+| JavaScript (ES6) | Dynamic Functionality |
 
 ---
 
@@ -52,10 +52,6 @@ Spotify-Clone
 │
 └── songs/
     ├── arijit_singh/
-    │     ├── cover.jpg
-    │     ├── info.json
-    │     └── *.mp3
-    │
     ├── chillsong/
     ├── favsongs/
     └── copyright/
@@ -65,7 +61,7 @@ Spotify-Clone
 
 ## ⚙️ How It Works
 
-```
+```text
 Albums Folder
       │
       ▼
@@ -111,17 +107,19 @@ Play Music 🎵
 
 ---
 
-## 📸 Preview
+# 📸 Preview
 
-> Add screenshots here after uploading them.
+## 🏠 Home Screen
 
-```
-## Home Screen
-![home](./Outputscreenshots/home.jpg.png)
+![Home Screen](OutputSreenshots/home.png)
 
-Mobile View
+## 📱 Mobile View
 
-```
+![Mobile View](OutputSreenshots/responsive.png)
+
+## 📂 Sidebar
+
+![Sidebar](OutputSreenshots/sidebar.png)
 
 ---
 
@@ -139,8 +137,6 @@ Mobile View
 ---
 
 ## 📚 What I Learned
-
-During this project I learned:
 
 * DOM Manipulation
 * Async / Await
