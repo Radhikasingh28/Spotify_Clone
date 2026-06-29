@@ -116,7 +116,8 @@ Play Music 🎵
 > Add screenshots here after uploading them.
 
 ```
-Home Screen 
+Home Screen
+![image alt](https://github.com/Radhikasingh28/Spotify_Clone/blob/5ecf22dce819d0064a3e8b583d3fff7786ab75ee/home.jpg.png)
 
 Album View
 
