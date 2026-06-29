@@ -116,8 +116,8 @@ Play Music 🎵
 > Add screenshots here after uploading them.
 
 ```
-Home Screen
-![Home Page](home.jpg.png)
+## Home Screen
+![home](./Outputscreenshots/home.jpg.png)
 
 Mobile View
 
